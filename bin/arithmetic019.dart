@@ -7,5 +7,5 @@ num func(int a, int b) {
 }
 
 void main() {
-  print(func(10, 4));
+  print(func(3, 1));
 }
